@@ -1,0 +1,10 @@
+https://midair.ulg.ac.be/MidAir/PLE_training/fall/sensor_records.zip?id=b17556af741a7813511971d618635fd7323261513712ad1a
+https://midair.ulg.ac.be/MidAir/PLE_training/fall/color_left/trajectory_4006/frames.zip?id=b17556af741a7813511971d618635fd7323261513712ad1a
+https://midair.ulg.ac.be/MidAir/PLE_training/winter/sensor_records.zip?id=b17556af741a7813511971d618635fd7323261513712ad1a
+https://midair.ulg.ac.be/MidAir/PLE_training/winter/color_left/trajectory_6006/frames.zip?id=b17556af741a7813511971d618635fd7323261513712ad1a
+https://midair.ulg.ac.be/MidAir/PLE_training/fall/color_left/trajectory_4017/frames.zip?id=b17556af741a7813511971d618635fd7323261513712ad1a
+https://midair.ulg.ac.be/MidAir/PLE_training/winter/color_left/trajectory_6017/frames.zip?id=b17556af741a7813511971d618635fd7323261513712ad1a
+https://midair.ulg.ac.be/MidAir/PLE_training/fall/color_left/trajectory_4018/frames.zip?id=b17556af741a7813511971d618635fd7323261513712ad1a
+https://midair.ulg.ac.be/MidAir/PLE_training/winter/color_left/trajectory_6018/frames.zip?id=b17556af741a7813511971d618635fd7323261513712ad1a
+https://midair.ulg.ac.be/MidAir/PLE_training/fall/color_left/trajectory_4019/frames.zip?id=b17556af741a7813511971d618635fd7323261513712ad1a
+https://midair.ulg.ac.be/MidAir/PLE_training/winter/color_left/trajectory_6019/frames.zip?id=b17556af741a7813511971d618635fd7323261513712ad1a
